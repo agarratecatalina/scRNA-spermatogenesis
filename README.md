@@ -22,9 +22,12 @@ The repository includes R scripts for the following analyses:
      - Round spermatids
      - Elongated spermatids
 
-5. **Gene co-expression analysis**
+5. **Trajectory inference**
+   - Reconstruction of the spermatogenic developmental trajectory using pseudotime analysis.
+
+6. **Gene co-expression analysis**
    - Construction of gene co-expression networks using hdWGCNA.
 
-6. **Lipid metabolism analysis**
+7. **Lipid metabolism analysis**
    - Co-expression analysis of lipid-related genes using hdWGCNA.
    - Identification of differentially expressed lipid-related genes across germ cell populations.
